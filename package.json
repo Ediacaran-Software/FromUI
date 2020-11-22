@@ -8,16 +8,15 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ediacaran-Software/FromUI.git"
+    "url": "git+https://github.com/Ediacaran-Software/from-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/Ediacaran-Software/FromUI/issues"
+    "url": "https://github.com/Ediacaran-Software/from-ui/issues"
   },
   "files": [
     "esm",
     "lib"
   ],
-  "homepage": "https://github.com/Ediacaran-Software/FromUI#readme",
   "keywords": [
     "Ediacaran-Software",
     "FromUI",
